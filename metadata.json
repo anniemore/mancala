@@ -1,0 +1,5 @@
+{
+  "name": "React Mancala",
+  "description": "A classic Mancala board game built with React and Tailwind CSS. Play against a friend on the same device and enjoy the timeless strategy game with a clean, modern interface.",
+  "requestFramePermissions": []
+}
